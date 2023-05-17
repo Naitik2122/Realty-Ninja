@@ -12,7 +12,7 @@ Detailed Property Listings: Realty Ninja provides detailed property listings tha
 
 ## Technologies Used
 
-**Figma:** Figma, a collaborative interface design tool, was utilized for designing the UI of Realty Ninja. This powerful tool allows for seamless collaboration between designers and developers, ensuring a smooth workflow.
+**Figma:** Figma, a collaborative interface design tool, was utilized for designing the UI of Realty Ninja. This powerful tool allows for seamless collaboration between designers and developers, ensuring a smooth workflow. <br>
 **InVision:** InVision was used to create interactive prototypes and gather feedback from stakeholders. This tool helped visualize the user flow and allowed for effective communication during the development process.
 
 ## Installation and Usage
