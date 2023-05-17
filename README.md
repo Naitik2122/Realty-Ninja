@@ -23,11 +23,11 @@ To use Realty Ninja, simply navigate to the [website](https://aksharpatel142844.
 
 Contributions to Realty Ninja are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request. Your contributions will help enhance the user experience and make Realty Ninja even better.
 
-##License
+## License
 
 Realty Ninja is released under the MIT License. You are free to use, modify, and distribute the codebase in accordance with the terms specified in the license.
 
-##Acknowledgments
+## Acknowledgments
 
 We would like to express our gratitude to the team members involved in the development of Realty Ninja. Their hard work, dedication, and expertise were instrumental in bringing this project to life. Additionally, we would like to thank the Real Estate agency for their valuable insights and feedback throughout the development process.
 
