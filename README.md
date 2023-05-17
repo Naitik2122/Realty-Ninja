@@ -4,20 +4,20 @@ Realty Ninja is a user-focused real estate website that aims to provide an acces
 
 ## Key Features
 
-Accessible and Intuitive UI: The Realty Ninja project is built upon a visually appealing and user-friendly interface, making it easy for users to navigate and interact with the website.
-Market Research and Evaluation: In order to ensure the best user experience, thorough market research was conducted to identify industry trends and evaluate similar real estate websites. This information was utilized to enhance the project's UI and UX, resulting in a 35% improvement in user interactivity.
-Property Search and Filtering: Realty Ninja provides users with a robust property search feature, allowing them to filter and find properties based on specific criteria such as location, price range, property type, and more. This functionality streamlines the property browsing process, making it more efficient for users.
-Interactive Property Mapping: The website includes an interactive map feature that allows users to explore properties visually. This feature provides a comprehensive view of available properties in different locations, helping users make informed decisions.
-Detailed Property Listings: Realty Ninja provides detailed property listings that showcase important information such as property descriptions, specifications, high-quality images, and contact details for real estate agents. This comprehensive approach ensures that users have access to all the necessary information to make informed decisions.
+**Accessible and Intuitive UI:** The Realty Ninja project is built upon a visually appealing and user-friendly interface, making it easy for users to navigate and interact with the website.<br>
+**Market Research and Evaluation:** In order to ensure the best user experience, thorough market research was conducted to identify industry trends and evaluate similar real estate websites. This information was utilized to enhance the project's UI and UX, resulting in a 35% improvement in user interactivity.<br>
+**Property Search and Filtering:** Realty Ninja provides users with a robust property search feature, allowing them to filter and find properties based on specific criteria such as location, price range, property type, and more. This functionality streamlines the property browsing process, making it more efficient for users. <br>
+**Interactive Property Mapping:** The website includes an interactive map feature that allows users to explore properties visually. This feature provides a comprehensive view of available properties in different locations, helping users make informed decisions.<br>
+**Detailed Property Listings:** Realty Ninja provides detailed property listings that showcase important information such as property descriptions, specifications, high-quality images, and contact details for real estate agents. This comprehensive approach ensures that users have access to all the necessary information to make informed decisions.<br>
 
 ## Technologies Used
 
 **Figma:** Figma, a collaborative interface design tool, was utilized for designing the UI of Realty Ninja. This powerful tool allows for seamless collaboration between designers and developers, ensuring a smooth workflow. <br>
-**InVision:** InVision was used to create interactive prototypes and gather feedback from stakeholders. This tool helped visualize the user flow and allowed for effective communication during the development process.
+**InVision:** InVision was used to create interactive prototypes and gather feedback from stakeholders. This tool helped visualize the user flow and allowed for effective communication during the development process.<br>
 
 ## Installation and Usage
 
-To use Realty Ninja, simply navigate to the [website](https://aksharpatel142844.invisionapp.com/console/share/D5ZFT83APMH/896012396) and start exploring properties using the intuitive user interface. No additional installation or setup is required as the website is hosted on a server and accessible through a web browser.
+To use Realty Ninja, simply navigate to the [website](https://aksharpatel142844.invisionapp.com/console/share/D5ZFT83APMH/896012396) and start exploring properties using the intuitive user interface. No additional installation or setup is required as the website is hosted on a server and accessible through a web browser.<br>
 
 ## Contributing
 
